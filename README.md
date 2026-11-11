@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./kf-skeli.webp" width="100%" alt="vladi">
+  <img src="./kf-skeli.webp" width="50%" alt="vladi">
 </p>
